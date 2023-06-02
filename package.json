@@ -1,0 +1,12 @@
+{
+  "name": "blazefetch",
+  "version": "1.0.1",
+  "description": "BlazeFetch is a lightweight HTTP client built on the Fetch API that provides a simplified interface for making HTTP requests in JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["api","fetch","GET","PUT","POST","DELETE","UPDATE"],
+  "author": "prathmeshrewale",
+  "license": "ISC,MIT"
+}
