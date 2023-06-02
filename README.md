@@ -108,6 +108,7 @@ Sends an HTTP DELETE request to the specified URL.
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
+- [Github](https://github.com/PrathmeshRewale/blazefetch)
 
 ## License
 

@@ -1,6 +1,6 @@
 {
   "name": "blazefetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "BlazeFetch is a lightweight HTTP client built on the Fetch API that provides a simplified interface for making HTTP requests in JavaScript projects.",
   "main": "index.js",
   "scripts": {
